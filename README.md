@@ -1,6 +1,9 @@
 # OS_vbx  
 
-可视化操作系统分析, https://github.com/hetaorens/OS_vbx. 
+可视化操作系统分析
+
+磁盘调度算法演示地址：https://anders0n.top/disks/
+
 
 • 利用 Vue 框架搭建数据可视化界面. 
 
