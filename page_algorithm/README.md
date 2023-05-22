@@ -1,4 +1,3 @@
-# pageReplace  
+# pageReplace
 
-页面置换算法
-
++ 页面置换算法
